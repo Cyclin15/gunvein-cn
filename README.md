@@ -4,7 +4,7 @@
 
 ## 下载安装
 
-1. 到本仓库的 **[Releases](../../releases)** 页面，下载最新的 `Gunvein简体中文汉化补丁.zip`
+1. 到本仓库的 **[Releases](../../releases)** 页面，下载最新的 `Gunvein-CN-Patch-v1.0.0.zip`
 2. 在 Steam 中右键 GUNVEIN → 管理 → 浏览本地文件，打开游戏目录
    （默认为 `Steam\steamapps\common\Gunvein`）
 3. 把压缩包里的 `data.win` 解压到游戏目录，覆盖原文件
